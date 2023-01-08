@@ -13,6 +13,11 @@
 
 - 💻 **Dapps I have buiilt**
 
+- 🦊 **Metamask's signTypedDataV4** <br>
+A Dapp which uses metamask's signtypedDataV4 to sign off chain messages while verifying on the blockchain. <br>
+currently live at : https://networkone.vercel.app/  <br>
+github frontEnd : https://github.com/jeefxM/Network1Copy <br>
+
 - 🧠 **Favorite Number Dapp** <br> 
 A Dapp to store a favorite number on the blockchain and retrieve it with a mapping.<br>
 Currently hosted on the Polygon mainnet. <br>
