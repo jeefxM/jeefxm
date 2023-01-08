@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Maisuradze</h1>
-<h3 align="center">A passionate blockchain developer from Georgia</h3>
+<h3 align="center">A passionate Blockchain Developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeefxm&label=Profile%20views&color=0e75b6&style=flat" alt="jeefxm" /> </p>
 
@@ -12,7 +12,8 @@
 - 💻 **Dapps I have buiilt**
 
 - 🧠 **Favorite Number Dapp** <br> 
-A Dapp to store a favorite number on the blockchain and retrieve it with a mapping. Currently hosted on the Polygon mainnet. <br>
+A Dapp to store a favorite number on the blockchain and retrieve it with a mapping.<br>
+Currently hosted on the Polygon mainnet. <br>
 currently live at : https://favoritenumber.vercel.app/  <br>
 github hardhat : https://github.com/jeefxM/FavoriteNumberHardhat <br>
 github frontEnd : https://github.com/jeefxM/favoriteNumberNextJs <br>
@@ -35,7 +36,7 @@ github frontEnd : https://github.com/jeefxM/MessagePortalNextJs <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeefxm&show_icons=true&locale=en&layout=compact" alt="jeefxm" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeefxm&" alt="jeefxm" /></p>
+
 
 <!--
 **jeefxM/jeefxm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
