@@ -27,6 +27,8 @@ currently live at : https://messageportal.vercel.app/ <br>
 github hardhat : https://github.com/jeefxM/MessagePortalHardhat <br>
 github frontEnd : https://github.com/jeefxM/MessagePortalNextJs <br>
 
+- 🧪 **Blockchain Testing address : 0x4f5249fc5550518ee047cc2B28592f618021d7B1**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
