@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am addicted to skiing**
 
-- ⚒️ Currently I am focused on **Blockchain and WEB3 Development*
+- ⚒️ Currently I am focused on **Blockchain and WEB3 Development**
 
 - 💻 **Dapps I have buiilt**
 
