@@ -11,11 +11,11 @@
 
 - 💻 **Dapps I have buiilt**
 
-- **Favoirte Number Dapp** 
+- **Favoirte Number Dapp** <br>
 A Dapp to store a favorite number on the blockchain and retrieve it with a mapping. Currently hosted on the Polygon mainnet. <br>
-currently live at : https://favoritenumber.vercel.app/
-github hardhat : https://github.com/jeefxM/FavoriteNumberHardhat
-github frontEnd : https://github.com/jeefxM/favoriteNumberNextJs
+currently live at : https://favoritenumber.vercel.app/  <br>
+github hardhat : https://github.com/jeefxM/FavoriteNumberHardhat <br>
+github frontEnd : https://github.com/jeefxM/favoriteNumberNextJs <br>
 
 
 <h3 align="left">Connect with me:</h3>
