@@ -11,11 +11,18 @@
 
 - 💻 **Dapps I have buiilt**
 
-- **Favoirte Number Dapp** <br>
+- 🧠 **Favorite Number Dapp** <br> 
 A Dapp to store a favorite number on the blockchain and retrieve it with a mapping. Currently hosted on the Polygon mainnet. <br>
 currently live at : https://favoritenumber.vercel.app/  <br>
 github hardhat : https://github.com/jeefxM/FavoriteNumberHardhat <br>
 github frontEnd : https://github.com/jeefxM/favoriteNumberNextJs <br>
+
+- 💬 **Message portal Dapp** <br>
+A Dapp to send me a message via blockchain and display them on the UI. I've also included a prize if you get the lucky number 💸. <br>
+Currently Hosted on Goerli testnet. <br>
+currently live at : https://messageportal.vercel.app/ <br>
+github hardhat : https://github.com/jeefxM/MessagePortalHardhat <br>
+github frontEnd : https://github.com/jeefxM/MessagePortalNextJs <br>
 
 
 <h3 align="left">Connect with me:</h3>
