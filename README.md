@@ -9,6 +9,15 @@
 
 - ⚡ Fun fact **I am addicted to skiing**
 
+- 💻 **Dapps I have buiilt**
+
+- **Favoirte Number Dapp** 
+A Dapp to store a favorite number on the blockchain and retrieve it with a mapping. Currently hosted on the Polygon mainnet.
+currently live at : https://favoritenumber.vercel.app/
+github hardhat : https://github.com/jeefxM/FavoriteNumberHardhat
+github frontEnd : https://github.com/jeefxM/favoriteNumberNextJs
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/dato-maisuradze-882727240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dato-maisuradze-882727240/" height="30" width="40" /></a>
