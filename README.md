@@ -37,7 +37,7 @@ A DAO for One Piece Fans built with thirdweb by deploying ERC20, ERC-1155 and vo
 currently live at : https://one-piece-dao.vercel.app/ <br>
 github frontEnd: https://github.com/jeefxM/OnePieceDAO <br>
 
-- 👨‍💻 Dapps to finish until end of February: **One Piece DAO**, **Decentralized Exchange**, **Spotify Royale**
+- 👨‍💻 Dapps to finish until end of January: **Decentralized Exchange**, **Spotify Royale**
 
 - 🧪 **Blockchain Testing address : 0x4f5249fc5550518ee047cc2B28592f618021d7B1**
 
