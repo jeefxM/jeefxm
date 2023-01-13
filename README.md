@@ -33,7 +33,7 @@ github hardhat : https://github.com/jeefxM/MessagePortalHardhat <br>
 github frontEnd : https://github.com/jeefxM/MessagePortalNextJs <br>
 
 - 🗣 **One Piece DAO**  <br>
-A DAO for One Piece Fans built with thirdweb by deploying ERC20, ERC-1155 and voting contracts. <br>
+A DAO for One Piece Fans built with thirdweb by deploying ERC20, ERC-1155 and voting contracts with Javascript. <br>
 currently live at : https://one-piece-dao.vercel.app/ <br>
 github frontEnd: https://github.com/jeefxM/OnePieceDAO <br>
 
