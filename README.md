@@ -39,7 +39,7 @@ A DAO for One Piece Fans built with thirdweb by deploying ERC20, ERC-1155 and vo
 currently live at : https://one-piece-dao.vercel.app/ <br>
 github frontEnd: https://github.com/jeefxM/OnePieceDAO <br>
 
-- ₿ **ERC20 Generator**  <br>
+- 💵 **ERC20 Generator**  <br>
 ERC20 Generator Dapp where you have to input Token Name, Token Symbol and Total supply. The Dapp takes those inputs and uses them as arguments when interacting with the smart contract. After the deployment The Dapp gives you back transaction Hash and Contract address. <br>
 Currently live at: https://erc20-generator-jeefx.vercel.app/ <br>
 github hardhat : https://github.com/jeefxM/ERC20GeneratorHardhat <br>
