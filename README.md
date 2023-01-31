@@ -45,7 +45,7 @@ Currently live at: https://erc20-generator-jeefx.vercel.app/ <br>
 github hardhat : https://github.com/jeefxM/ERC20GeneratorHardhat <br>
 github frontEnd : https://github.com/jeefxM/ERC20GeneratorFrontend-Tailwind <br>
 
-- 👨‍💻 Dapps to finish until end of January: **Decentralized Exchange**, **Spotify Royale**
+- 👨‍💻 Dapps to finish until end of February: **DALL-E clone with ERC721 implementation**, **Spotify Royale**
 
 - 🧪 **Blockchain Testing address : 0x4f5249fc5550518ee047cc2B28592f618021d7B1**
 
