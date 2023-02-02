@@ -45,6 +45,11 @@ Currently live at: https://erc20-generator-jeefx.vercel.app/ <br>
 github hardhat : https://github.com/jeefxM/ERC20GeneratorHardhat <br>
 github frontEnd : https://github.com/jeefxM/ERC20GeneratorFrontend-Tailwind <br>
 
+- 👾 **DALL-E clone** <br>
+Clone for OpenAi's DALL-E web app. ERC721 implementation coming soon ... <br>
+Currently live at: dalle-erc721.vercel.app <br>
+github repo: https://github.com/jeefxM/DALL-E_Clone_ERC721 <br>
+
 - 👨‍💻 Dapps to finish until end of February: **DALL-E clone with ERC721 implementation**, **Spotify Royale**
 
 - 🧪 **Blockchain Testing address : 0x4f5249fc5550518ee047cc2B28592f618021d7B1**
