@@ -258,7 +258,7 @@ github repo: https://github.com/jeefxM/DALL-E_Clone_ERC721 <br>
         />
       </a>
     </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeefxm&show_icons=true&locale=en&layout=compact" alt="jeefxm" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeefxm&show_icons=true&locale=en&layout=compact" alt="jeefxm" /></p> -->
 
 
 
