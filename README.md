@@ -5,54 +5,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeefxm&label=Profile%20views&color=0e75b6&style=flat" alt="jeefxm" /> </p>
 
-- 🌱 I’m currently learning **Full stack blockchain development**
+- 🌱 I’m currently focused on **Web3 and Blockchain Development**
 
-- 💬 Ask me about **Blockchain**
+- 💬 Ask me about **Blockchain, Web3, and Tokenomics**
 
-- ⚡ Fun fact **I am addicted to skiing**
+- ⚡ Fun fact: **I'm addicted to skiing**
 
-- ⚒️ Currently I am focused on **Blockchain and WEB3 Development**
+- 🛠️ **Current Projects:**
 
-- 💻 **Dapps I have buiilt**
+- **Thirdmerch**: A platform for digital creators to monetize their work through phygital merchandise and NFTs, bridging the gap between physical and digital items. It integrates AI tools and 3D models for use in multiple games and metaverses.
 
-- 🦊 **Metamask's signTypedDataV4** <br>
-A Dapp which uses metamask's signtypedDataV4 to sign off chain messages while verifying on the blockchain. <br>
-currently live at : https://networkone.vercel.app/  <br>
-github frontEnd : https://github.com/jeefxM/Network1Copy <br>
+- **Crypto News Media Platform**: I'm building a **news platform** tailored for crypto and Web3, aiming to provide timely and accurate information to the community. This platform leverages blockchain for transparency in journalism.
 
-- 🧠 **Favorite Number Dapp** <br> 
-A Dapp to store a favorite number on the blockchain and retrieve it with a mapping.<br>
-Currently hosted on the Polygon mainnet. <br>
-currently live at : https://favoritenumber.vercel.app/  <br>
-github hardhat : https://github.com/jeefxM/FavoriteNumberHardhat <br>
-github frontEnd : https://github.com/jeefxM/favoriteNumberNextJs <br>
+- **Social Token Project on AirDAO**: Working on a decentralized app (dApp) that enables users to deploy ERC-20 tokens on AirDAO and token-gate access to Discord communities based on ownership.
 
-- 💬 **Message portal Dapp** <br>
-A Dapp to send me a message via blockchain and display them on the UI. I've also included a prize if you get the lucky number 💸. <br>
-Currently Hosted on Goerli testnet. <br>
-currently live at : https://messageportal.vercel.app/ <br>
-github hardhat : https://github.com/jeefxM/MessagePortalHardhat <br>
-github frontEnd : https://github.com/jeefxM/MessagePortalNextJs <br>
-
-- 🗣 **One Piece DAO**  <br>
-A DAO for One Piece Fans built with thirdweb by deploying ERC20, ERC-1155 and voting contracts with Javascript. <br>
-currently live at : https://one-piece-dao.vercel.app/ <br>
-github frontEnd: https://github.com/jeefxM/OnePieceDAO <br>
-
-- 💵 **ERC20 Generator**  <br>
-ERC20 Generator Dapp where you have to input Token Name, Token Symbol and Total supply. The Dapp takes those inputs and uses them as arguments when interacting with the smart contract. After the deployment The Dapp gives you back transaction Hash and Contract address. <br>
-Currently live at: https://erc20-generator-jeefx.vercel.app/ <br>
-github hardhat : https://github.com/jeefxM/ERC20GeneratorHardhat <br>
-github frontEnd : https://github.com/jeefxM/ERC20GeneratorFrontend-Tailwind <br>
-
-- 👾 **DALL-E clone** <br>
-Clone for OpenAi's DALL-E MERN stack web app. ERC721 implementation coming soon ... <br>
-Currently live at: https://dalle-erc721.vercel.app/ <br>
-github repo: https://github.com/jeefxM/DALL-E_Clone_ERC721 <br>
-
-- 👨‍💻 Dapps to finish until end of February: **DALL-E clone with ERC721 implementation**, **Spotify Royale**
-
-- 🧪 **Blockchain Testing address : 0x4f5249fc5550518ee047cc2B28592f618021d7B1**
+- 💻 **Tech Stack**: I’m using frameworks like **Next.js** and **React** for frontend development, **Node.js / Golang** for backend development and **Prisma** with **PostgreSQL** for database management, 
 
 
 <h3 align="left">Connect with me:</h3>
