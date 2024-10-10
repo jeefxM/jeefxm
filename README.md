@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David Maisuradze</h1>
 <h3 align="center">A passionate Blockchain Developer from Georgia</h3>
 <h3 align="center">Checkout my portflio website:</h3>
-<h3 align="center">https://jeefx.works</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeefxm&label=Profile%20views&color=0e75b6&style=flat" alt="jeefxm" /> </p>
 
