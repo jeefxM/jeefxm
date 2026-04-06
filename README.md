@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Maisuradze</h1>
+<!-- <h1 align="center">Hi 👋, I'm David Maisuradze</h1>
 <h3 align="center">A passionate Blockchain Developer from Georgia</h3>
 <h3 align="center">Checkout my portflio website:</h3>
 
@@ -19,7 +19,7 @@
 
 - **Social Token Project on AirDAO**: Working on a decentralized app (dApp) that enables users to deploy ERC-20 tokens on AirDAO and token-gate access to Discord communities based on ownership.
 
-- 💻 **Tech Stack**: I’m using frameworks like **Next.js** and **React** for frontend development, **Node.js / Golang** for backend development and **Prisma** with **PostgreSQL** for database management, 
+- 💻 **Tech Stack**: I’m using frameworks like **Next.js** and **React** for frontend development, **Node.js / Golang** for backend development and **Prisma** with **PostgreSQL** for database management,  -->
 
 
 <h3 align="left">Connect with me:</h3>
